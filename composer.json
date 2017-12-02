@@ -1,0 +1,22 @@
+{
+    "name": "frameworl-php",
+    "description": "Miniframework mvc de php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Riux Mend",
+            "email": "Rem.mend@gmail.com",
+            "homepage": "http://rem.com",
+            "role": "developer"
+        }
+    ],
+    "require":{
+        "php": ">=5.5.0",
+        "phpmailer/phpmailer": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    }
+}
